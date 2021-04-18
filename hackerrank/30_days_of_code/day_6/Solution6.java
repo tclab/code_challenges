@@ -1,8 +1,6 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
+import java.util.Scanner;
 
-public class Solution {
+public class Solution6 {
 
     private static final Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {

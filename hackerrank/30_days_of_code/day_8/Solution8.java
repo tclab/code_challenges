@@ -1,8 +1,9 @@
 //Complete this code or write your own from scratch
-import java.util.*;
-import java.io.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
-class Solution{
+class Solution8 {
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
