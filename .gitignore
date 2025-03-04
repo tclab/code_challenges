@@ -1,3 +1,42 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.metadata/
+bin/
+tmp/
+
+# VS Code
+.vscode/
+
+# macOS
 .DS_Store
-/.idea/
-code_challenges.iml
+
+# Windows
+Thumbs.db
+ehthumbs.db
